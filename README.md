@@ -4,3 +4,11 @@ ASP.NET MVC Chat Room
 		and Razor along with JavaScript for the client view.
 		
 	> IDE: Visual Studio Ultimate 2013
+	
+	> The three files that make up the chat room are:
+	
+		[ChatHub.cs](blob/master/Web ChatRoom/WebChatRoom/Hubs/ChatHub.cs)
+		[mpw-chat.js](blob/master/Web ChatRoom/WebChatRoom/Scripts/mpw-chat.js)
+		[Chat.cshtml](blob/master/Web ChatRoom/WebChatRoom/Views/Home/Chat.cshtml)
+		
+		
