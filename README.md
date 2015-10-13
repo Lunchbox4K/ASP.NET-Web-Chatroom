@@ -1,5 +1,7 @@
 ASP.NET MVC Chat Room 
 
+	[Example Page](http://mpwchat.azurewebsites.net/Home/chat)
+
 	> This is a simple chat room I made for my ASP.NET class. It uses a SignalR hub as the server,
 		and Razor along with JavaScript for the client view.
 		
